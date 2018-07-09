@@ -1,0 +1,241 @@
+@media only screen and (min-width:1368px) and (max-width:1720px) {
+
+	.navbar-default .navbar-nav > li > a { font-size: 16px; }
+	header .abajo .informacion {  height: 88px; }
+	header .abajo .informacion h3 {  margin: 5px 0 7px;  font-size: 18px; }
+	#cont-slider .item .contexto h2 { font-size: 4rem; }
+	#cont-slider .item .contexto h3 { font-size: 3.4rem; }
+	#pageHome .secc-articulos .contnoticia .texto h3 { text-align: left; font-size: 20px; }
+	#pageHome .secc-articulos .contnoticia .texto { font-size: 15px; }
+	#pageHome .secc-articulos .contarticulo .texto h3 {  font-size: 22px; }
+	#pageHome .secc-articulos h2 { font-size: 2.4rem; }
+	#pageHome .secc-articulos .col-der .seccimg { height: 50vw; }
+	#imgprincipal h1, #imgprincipal h2 { font-size: 30px; }
+	#pageNosotros .equipo .nombre h3 { font-size: 20px;}
+	#pageTrading .info-trading .info-abs h3 {  font-size: 23px; }
+	#pageContactenos .infolateral .informacion { padding: 4vw 35px 3vw; }
+	#pageContactenos .infolateral .informacion .dato,
+	footer .info ul > li a { font-size: 17px; }
+}
+
+
+@media only screen and (min-width:1285px) and (max-width:1366px) {
+
+	body { font-size: 17px; }
+	.navbar-default .navbar-nav > li > a { font-size: 15px; padding: 6px 4px; }
+	.navbar-default .navbar-nav > li { margin: 0 5px; }
+	.dropdown-menu > li > a {font-size: 15px; }
+	header .abajo .informacion { height: 88px; }
+	header .abajo .informacion h3 { margin: 3px 0 4px; font-size: 17px; }
+	header .abajo .informacion .btnVerde { padding: 3px 30px; font-size: 14px;  line-height: normal; }
+	#cont-slider .item .contexto h2 { font-size: 3.6rem; }
+	#cont-slider .item .contexto h3 { font-size: 3rem; }
+	#pageHome .secc-articulos .contnoticia .texto h3 { text-align: left; font-size: 17px; }
+	#pageHome .secc-articulos .contnoticia .texto { font-size: 14px; }
+	#pageHome .secc-articulos .contarticulo .texto h3 {  font-size: 20px; }
+	#pageHome .secc-articulos h2 { font-size: 2.2rem; }
+	#pageHome .secc-articulos .col-der .seccimg { height: 51vw; }
+	#imgprincipal h1, #imgprincipal h2 { font-size: 25px; }
+	#pageNosotros .equipo .nombre h3 { font-size: 18px;}
+	#pageTrading .info-trading .info-abs h3 {  font-size: 19px; }
+	#pageContactenos .infolateral .informacion { padding: 4vw 30px 3vw; }
+	#pageContactenos .infolateral .informacion .dato,
+	footer .info ul > li a { font-size: 15px; }
+	footer .dato {   font-size: 16px; }
+
+	#pageHome .secc-articulos .col-der .seccbusca form .form-control { height: 45px; }
+	#pageHome .secc-articulos .col-der .seccbusca form .btnVerde { line-height: 45px; }
+	#pageHome .secc-articulos .col-izq {  padding-right: 38px; }
+	#pageHome .secc-articulos .contnoticia .contboton { margin-bottom: -12px; margin-top: 12px; }
+	#pageHome .secc-articulos .contarticulo .texto { font-size: 15px; }
+	#carruTesti .contImg img { width: 138px; }
+	#carruTesti .texto {  font-size: 16px; }
+	#pageHome .secc-videos h2 { font-size: 2.3rem; }
+	#pageHome .secc-videos h2:after {  width: 18%; }
+	#carruTesti .autor h4 { font-size: 20px; }
+	#pageHome .secc-articulos .col-der .seccpreguntas .btnVerde { border-radius: 10px; font-size: 20px }
+	#pageContactenos .infolateral .informacion .dato .fa { margin-right: 3px; width: 23px; }
+
+}
+
+@media only screen and (min-width:1195px) and (max-width:1285px) {
+
+	.container { width: 90%; }
+
+	body { font-size: 16px; }
+	.navbar-default .navbar-nav > li > a { font-size: 15px; padding: 6px 4px; }
+	.navbar-default .navbar-nav > li { margin: 0 5px; }
+	.dropdown-menu > li > a {font-size: 15px; }
+	header .abajo .informacion { height: 88px; }
+	header .abajo .informacion h3 { margin: 3px 0 4px; font-size: 17px; }
+	header .abajo .informacion .btnVerde { padding: 3px 30px; font-size: 14px;  line-height: normal; }
+	#cont-slider .item .contexto h2 { font-size: 3.6rem; }
+	#cont-slider .item .contexto h3 { font-size: 3rem; }
+	#pageHome .secc-articulos .contnoticia .texto h3 { text-align: left; font-size: 16px; }
+	#pageHome .secc-articulos .contnoticia .texto { font-size: 14px; }
+	#pageHome .secc-articulos .contarticulo .texto h3 {  font-size: 20px; }
+	#pageHome .secc-articulos h2 { font-size: 2.2rem; }
+	#pageHome .secc-articulos .col-der .seccimg { height: 51vw; }
+	#imgprincipal h1, #imgprincipal h2 { font-size: 25px; }
+	#pageNosotros .equipo .nombre h3 { font-size: 18px;}
+	#pageTrading .info-trading .info-abs h3 {  font-size: 19px; }
+	#pageContactenos .infolateral .informacion { padding: 4vw 30px 3vw; }
+	#pageContactenos .infolateral .informacion .dato,
+	footer .info ul > li a { font-size: 15px; }
+	footer .dato {   font-size: 16px; }
+
+	#pageHome .secc-articulos .col-der .seccbusca form .form-control { height: 45px; }
+	#pageHome .secc-articulos .col-der .seccbusca form .btnVerde { line-height: 45px; }
+	#pageHome .secc-articulos .col-izq { padding-right: 30px; padding-left: 5vw; }
+	#pageHome .secc-articulos .contnoticia .contboton { margin-bottom: -12px; margin-top: 12px; }
+	#pageHome .secc-articulos .contarticulo .texto { font-size: 15px; }
+	#carruTesti .contImg img { width: 138px; }
+	#carruTesti .texto {  font-size: 16px; }
+	#pageHome .secc-videos h2 { font-size: 2.3rem; }
+	#pageHome .secc-videos h2:after {  width: 18%; }
+	#carruTesti .autor h4 { font-size: 20px; }
+	#pageHome .secc-articulos .col-der .seccpreguntas .btnVerde { border-radius: 10px; font-size: 20px }
+	#pageContactenos .infolateral .informacion .dato .fa { margin-right: 3px; width: 23px; }
+	#pageHome .secc-articulos .col-der .seccbusca { margin-bottom: 30px; }
+
+}
+
+/*Tablet*/
+@media only screen and (min-width:768px) and (max-width:1026px) { 
+
+	body { font-size: 17px; }
+	.container { width: 93%; }
+
+	/*Padding 30*/
+	.padcont { padding: 37px 0; }
+
+
+}
+
+@media only screen 
+and (min-device-width:768px) 
+and (max-device-width:1024px) {
+
+}
+
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) { }
+
+
+/*Smartphone*/
+@media only screen and (min-width:320px) and (max-width:480px) {  
+
+	body { font-size: 15px;  }
+	.container { width: 93% !important; }
+
+	header { position: relative; top: 0; padding-top: 90px; padding-bottom: 25px; }
+	header .cont-menu { position: fixed; top: 0; }
+	header .icono {  margin: 0 6px; }
+
+	.navbar-default { background-color: #ffffff;  width: 100%; margin: 0; padding: 10px 0; min-height: 77px; box-shadow: 1px 1px 2px rgba(0,0,0,0.5); }
+	.navbar-default .navbar-toggle { margin-top: 20px; }
+	.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {  background-color: #f1f1f1; }
+	.navbar-default .navbar-toggle .icon-bar { background-color: #00bb3a; }
+	.navbar-nav .open .dropdown-menu { margin-top: 0; background-color: #d8d8d8; }
+	.navbar-default .navbar-nav > li { margin: 0; }
+	.navbar-default .navbar-nav > li > a { font-size: 15px; padding:5px 15px; color: #333; text-align: left; line-height: normal; }
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a { font-size: 14px; color: #151726; background-color: transparent; padding: 5px 15px;  }
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus { color: #151726; background-color: transparent; }
+	.dropdown-menu > li:hover, .dropdown-menu > li:hover > a { background-color: transparent; }
+	.navbar-default .navbar-nav > li.activa > a:after,
+	.navbar-default .navbar-nav > li:hover > a:after { content: ""; display: none; }
+	.navbar-default .navbar-nav > li.activa > a,
+	.navbar-default .navbar-nav > li:hover > a { color: #333333; }
+	#menuPlegable { padding: 0; }
+	#menuPlegable .navbar-nav { margin: 0; }
+	.navbar-nav .open .dropdown-menu.menu3 > li > a { background-color: #dbdbdb; }
+
+	.padcont,
+	footer .info-footer, #pageNosotros .txtprincipal { padding: 35px 0; }
+	#imgprincipal {  height: 135px; }
+	#imgprincipal h1, #imgprincipal h2 { font-size: 24px; }
+
+	#cont-slider .item .contexto { bottom: 35px; padding: 10px 16px; }
+	#cont-slider .item .contexto h2 { font-size: 18px; }
+	#cont-slider .item .contexto h3 { font-size: 18px; }
+	#cont-slider .owl-theme .owl-nav [class*="owl-"] img {  width: 28px; }
+	#cont-slider .owl-theme .owl-dots {  bottom: 7px; margin-top: 0; }
+
+	header .contimg { width: 50%; display: inline-block; float: left; margin-left: 15px; }
+	header .contimg img { width: auto; }
+	header .abajo .contmenu { margin-top: 0; }
+	header .abajo .informacion {  position: relative; height: auto;  background-color: rgba(0,0,0,0.7); padding: 10px 16px; }
+	header .abajo .informacion h3 { margin: 5px 0 15px; font-size: 17px; }
+	#cont-slider .owl-item img {  height: 130px; }
+
+	#pageHome .secc-articulos .col { width: 100%; padding:  0 15px; }
+	#pageHome .secc-articulos h2 { margin-bottom: 28px; font-size: 22px; }
+	#pageHome .secc-articulos { padding: 35px 0; }
+	#pageHome .secc-articulos .contnoticia .texto h3,
+	#pageHome .secc-articulos .contarticulo .texto h3 {  font-size: 19px; }
+	#pageHome .secc-articulos .contnoticia .texto,
+	#pageHome .secc-articulos .contarticulo .texto { font-size: 15px; }
+	#pageHome .secc-articulos .contnoticia .contboton {  margin-bottom: -11px; margin-top: 11px; }
+	#pageHome .secc-articulos .contnoticia {   margin-bottom: 40px; }
+	#pageHome .secc-articulos .articulos { margin-top: 40px; }
+	#pageHome .secc-articulos .contarticulo.izq,
+	#pageHome .secc-articulos .contarticulo.der {  padding: 0; }
+	#pageHome .secc-articulos .contarticulo { margin-bottom: 30px; }
+	#pageHome .secc-articulos .col-izq { margin-bottom: 45px; }
+	#pageHome .secc-articulos .col-der .seccimg { height: 350px; }
+	#pageHome .testimonios h2 {  margin-bottom: 35px; font-size: 25px; }
+	#carruTesti .slick-prev, #carruTesti .slick-next { width: 18px; }
+	#pageHome .secc-videos h2 {  margin-bottom: 30px; font-size: 25px; }
+	#pageHome .secc-videos .btnVerde { font-size: 18px; width: auto; }
+	footer .suscripcion .col, footer .suscripcion .col-izq > * { width: 100%; }
+
+	footer .info-footer .contimg,
+	footer .info-footer .info { margin-bottom: 20px; }
+	footer .info h3 { margin-bottom: 10px; font-size: 22px; }
+
+
+	#pageNosotros .informacion .texto { padding: 0; }
+	#pageNosotros .informacion .contimg,
+	#pageNosotros .valores .contimg { height: 150px; margin-bottom: 25px;}
+	#pageNosotros .informacion {  margin: 35px 0; }
+	#pageNosotros .secc-misvis h2, #pageNosotros .valores h2,
+	#pageNosotros .equipo h2 { font-size: 20px; margin-bottom: 25px; }
+	#pageNosotros .secc-misvis .misvis { margin-bottom: 30px; }
+	#pageNosotros .valores {  margin: 35px 0; }
+	#pageNosotros .valores .texto {  padding: 35px 0; }
+	#pageNosotros .equipo {  margin-bottom: 35px; padding: 35px 0; }
+	#pageNosotros .equipo .miembro {  margin-bottom: 30px; }
+	footer .suscripcion .col-izq .texto { padding-right: 0; margin-bottom: 15px; }
+
+	#pageTrading .info-trading .contimg, #pageTrading .info-trading .info-abs {  height: 300px; }
+	#pageTrading .info-trading .info-abs h3 {   font-size: 22px; }
+	#pageTrading .info-trading {padding: 0 15px; margin-bottom: 30px; }
+	#pageMasternodos .informacion .texto { padding: 0;   margin-top: 16px; }
+
+	#pageAsesoriaPer .informacion .info-asesoria .contimg { height: 250px; margin-bottom: 10px; }
+	#pageAsesoriaPer .informacion h2 {margin-top: 10px; margin-bottom: 18px; font-size: 19px; }
+	#pageAsesoriaPer .informacion .texto {   padding: 0; }
+	#pageAsesoriaPer .informacion .info-asesoria { margin-bottom: 30px; }
+	#pageAnalisis .informacion .contvideo h3, #pageAnalisis .informacion .infoimg h3 {   font-size: 18px; }
+	#pageAnalisis .informacion .infoimg {  margin-bottom: 20px; padding: 0; }
+	#pageTienda .contmoneda .contimg img { height: 135px; }
+	#pageTienda .contmoneda .contimg { margin-bottom: 18px; }
+	#pageTienda .contmoneda {  margin: 0 auto 30px; width: 75%; }
+	#pageSeminarios .informacion .contvideo h3 {  font-size: 18px;margin-bottom: 16px; }
+	#pageSeminarios .informacion .contvideo {  margin-bottom: 30px; padding: 0; }
+
+	#pageContactenos .infolateral .informacion {  padding: 35px 20px; }
+	#cont-informacion.pageContactenos .infolateral { padding-top: 45px; width: 100%; }
+	#cont-informacion.pageContactenos .infoform .col-xs-12 { padding:  0; }
+	#cont-informacion.pageContactenos .infoform .titulo h2 { margin-bottom: 25px; font-size: 22px; }
+	#pageMensajeEnviado {   height: 350px; margin-bottom: 35px; }
+	#pageMensajeEnviado .info { left: 0; padding: 0 20px; }
+	#pageMensajeEnviado .info h3 {  letter-spacing: 3px;    font-size: 18px; }
+	#pageMensajeEnviado .info h2 { font-size: 20px; }
+	#pageMensajeEnviado .info h2:after { height: 14px; }
+	#pageMensajeEnviado .info .btnVerde { font-size: 20px; }
+
+
+
+}
