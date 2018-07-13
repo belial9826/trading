@@ -514,6 +514,7 @@ footer .info.declaracion .btnVerde { margin-top: 30px; border-radius: 7px; }
 #pageLanding .secc-datos .multimedia .contvideo { margin-bottom: 45px; }
 #pageLanding .secc-datos .multimedia .contvideo:after { content: ""; display: block; border-top: 4px solid #cccccc; margin: 40px auto 0; width: 80%; }
 #pageLanding .secc-datos .multimedia .contvideo h4 { text-align: center; margin-top: 0; font-weight: 700; font-size: 22px; }
+#pageLanding .secc-datos .multimedia .contvideo video { height: auto; }
 #pageLanding .secc-datos .programa h3 { margin-bottom: 33px; margin-top: 0; }
 #pageLanding .secc-datos .programa h3:after { content: ""; display: block; border-top: 4px solid #cccccc; margin-top: 4px; width: 80%; }
 #pageLanding .secc-datos .programa .texto { padding: 0 3vw; }

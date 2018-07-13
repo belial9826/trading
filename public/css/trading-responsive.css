@@ -16,6 +16,7 @@
 	#pageContactenos .infolateral .informacion { padding: 4vw 35px 3vw; }
 	#pageContactenos .infolateral .informacion .dato,
 	footer .info ul > li a { font-size: 17px; }
+
 }
 
 
@@ -55,6 +56,12 @@
 	#carruTesti .autor h4 { font-size: 20px; }
 	#pageHome .secc-articulos .col-der .seccpreguntas .btnVerde { border-radius: 10px; font-size: 20px }
 	#pageContactenos .infolateral .informacion .dato .fa { margin-right: 3px; width: 23px; }
+
+	#pageLanding .secc-seminarioprin .arriba h1 { font-size: 2.6rem; }
+	#pageLanding .secc-seminarioprin .arriba h2 { font-size: 2.7rem; }
+	#pageLanding .secc-datos .experto .continfo h4 { font-size: 18px; }
+	#pageLanding .secc-datos .experto .continfo { font-size: 15px; }
+	#pageLanding .secc-footer .informacion .dato { padding: 0 3vw; font-size: 19px; }
 
 }
 
@@ -97,6 +104,12 @@
 	#pageHome .secc-articulos .col-der .seccpreguntas .btnVerde { border-radius: 10px; font-size: 20px }
 	#pageContactenos .infolateral .informacion .dato .fa { margin-right: 3px; width: 23px; }
 	#pageHome .secc-articulos .col-der .seccbusca { margin-bottom: 30px; }
+
+	#pageLanding .secc-seminarioprin .arriba h1 { font-size: 2.6rem; }
+	#pageLanding .secc-seminarioprin .arriba h2 { font-size: 2.7rem; }
+	#pageLanding .secc-datos .experto .continfo h4 { font-size: 18px; }
+	#pageLanding .secc-datos .experto .continfo { font-size: 15px; }
+	#pageLanding .secc-footer .informacion .dato { padding: 0 3vw; font-size: 19px; }
 
 }
 
@@ -235,6 +248,21 @@ and (max-device-width:1024px) {
 	#pageMensajeEnviado .info h2 { font-size: 20px; }
 	#pageMensajeEnviado .info h2:after { height: 14px; }
 	#pageMensajeEnviado .info .btnVerde { font-size: 20px; }
+
+	#pageLanding .secc-seminarioprin .arriba h2 {  font-size: 1.6rem; }
+	#pageLanding .secc-seminarioprin .arriba h1 { font-size: 1.8rem; }
+	#pageLanding .secc-header .abajo .contimg img {  width: 65%; }
+	#pageLanding .secc-registro form .centrado { width: 90%; }
+	#pageLanding .secc-registro .form-contacto .form-control { height: 42px; font-size: 15px; }
+	#pageLanding .secc-footer .informacion .dato {  margin-bottom: 23px;padding: 0 4vw;font-size: 16px; }
+	#pageLanding .secc-seminarioprin .abajo h4 {  font-size: 16px; }
+	#pageLanding .secc-registro form .checkbox label { font-size: 15px; }
+	#pageLanding .secc-datos .informacion { padding: 30px 0; }
+	#pageLanding .secc-datos .multimedia .contvideo h4 { font-size: 18px; }
+	#pageLanding .secc-texto .texto {  font-size: 17px; }
+	#pageLanding .secc-footer .container { padding-top: 12px; }
+	#pageLanding .secc-footer .conttexto {  margin-bottom: 20px; }
+	#pageLanding .secc-footer {  padding: 25px 0 30px; }
 
 
 
